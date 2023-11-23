@@ -27,12 +27,13 @@ const loop = setInterval(() => {
         mario.style.marginLeft = '50px'
 
         clearInterval(loop)
+            alert( "Game over :(  |  Renicie a página para recomeçar" );
     }
 
 }, 10);
 
-document.addEventListener('keydown', jump)
-
-
-
-  
+document.addEventListener('keydown', event => {
+    if (event.code === 'Space') {
+      jump()
+    }
+  });
