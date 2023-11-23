@@ -6,4 +6,4 @@ porém no lugar do dinossauro temos o Mario !!
 
 
 <img src="https://i.imgur.com/ZXX4E6D.png"/>
-![Imagem](https://i.imgur.com/1W3aqYK.png)
+<img src="https://i.imgur.com/1W3aqYK.png"/>
