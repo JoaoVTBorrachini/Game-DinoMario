@@ -6,5 +6,5 @@ porém no lugar do dinossauro temos o Mario !!
 
 
 <html>
-<img src="https://imgur.com/a/Vy0A67Z">
+<img src="https://imgur.com/a/Vy0A67Z" />
 </html>
