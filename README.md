@@ -5,6 +5,5 @@ Dei o nome desse projeto de "JOGO DO DINOMARIO" pois o jogo é no estilo do jogo
 porém no lugar do dinossauro temos o Mario !!
 
 
-<img src="https://imgur.com/a/Vy0A67Z"/>
-
-!(image)[https://imgur.com/a/Vy0A67Z]
+<img src="https://i.imgur.com/ZXX4E6D.png"/>
+![Imagem](https://i.imgur.com/1W3aqYK.png)
