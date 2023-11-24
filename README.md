@@ -6,6 +6,6 @@ A intenção desse projeto foi me aprimorar um pouco mais em alguns comandos do 
 Dei o nome desse projeto de "JOGO DO DINOMARIO" pois o jogo é no estilo do jogo do dinossauro quando ficamos sem internet e abrimos o google chrome,
 porém no lugar do dinossauro temos o Mario !!
 
-
+<h2>Game images</h2>
 <img src="https://i.imgur.com/ZXX4E6D.png"/>
 <img src="https://i.imgur.com/1W3aqYK.png"/>
