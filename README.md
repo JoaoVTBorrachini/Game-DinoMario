@@ -1,3 +1,5 @@
+<h1>DINOMARIO GAME</h1>
+
 Projetinho - JOGO DO DINOMARIO - utilizando | HTML - CSS - JS |
 A intenção desse projeto foi me aprimorar um pouco mais em alguns comandos do JS, aprendendo e mexendo para saber o que cada função faz!
 
