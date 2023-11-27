@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    user-select: none;
 }
 
 .view-game {
@@ -36,6 +37,17 @@
     width: 550px;
     animation: clouds-animation 18s infinite linear;
 }
+
+.hide{
+    display: none;
+}
+
+/* .score{
+    position: absolute;
+    font-size: 3vmin;
+    right: 50%;
+    top: 1vmin;
+} */
 
 
 @keyframes pipe-animation {
