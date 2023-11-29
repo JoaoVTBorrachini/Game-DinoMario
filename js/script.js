@@ -1,15 +1,7 @@
 const mario = document.querySelector('.mario');
 const clouds = document.querySelector('.clouds');
 const pipe = document.querySelector('.pipe');
-
-
-let pipeArray = [];
-let pipePos = [bottom = -20,
-                width = 80]
-
-
-// document.addEventListener("keydown", startScreen, {once: true})
-
+ 
 const jump = () => {
     mario.classList.add('jump');
 
